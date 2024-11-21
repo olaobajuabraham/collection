@@ -1,4 +1,4 @@
-# OpenAPIClient-php
+# MTN Mobile Money Collection Client.
 
 Enable remote collection of bills, fees or taxes
 
@@ -12,23 +12,9 @@ Should also work with PHP 8.0.
 
 ### Composer
 
-To install the bindings via [Composer](https://getcomposer.org/), add the following to `composer.json`:
-
-```json
-{
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/GIT_USER_ID/GIT_REPO_ID.git"
-    }
-  ],
-  "require": {
-    "GIT_USER_ID/GIT_REPO_ID": "*@dev"
-  }
-}
+```shell
+  composer require mtnmomo/collection
 ```
-
-Then run `composer install`
 
 ### Manual Installation
 
