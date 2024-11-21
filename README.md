@@ -22,7 +22,7 @@ Download the files and include `autoload.php`:
 
 ```php
 <?php
-require_once('/path/to/OpenAPIClient-php/vendor/autoload.php');
+require_once('/path/to/collection/vendor/autoload.php');
 ```
 
 ## Getting Started
